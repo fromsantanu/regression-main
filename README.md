@@ -1,4 +1,4 @@
-# Regression Analysis and Related Machine Learning Methods
+# Regression Analysis and Related ML Algorithms
 
 ## Table of Contents
 - [**Topic 01 - What is Regression Analysis?**](#)
