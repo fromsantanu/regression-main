@@ -14,7 +14,7 @@
   - [Method 09 - Non-linear Regression](https://github.com/fromsantanu/regression-main/blob/main/pages/p02-09.md)
   - [Method 10 - Robust Regression](https://github.com/fromsantanu/regression-main/blob/main/pages/p02-10.md)
   - [Method 11 - Bayesian Regression](https://github.com/fromsantanu/regression-main/blob/main/pages/p02-11.md)
-- [**Topic 03 - What are the ML techniques based on Regression Concept?**](https://github.com/fromsantanu/regression-main/blob/main/pages/p03.md)
+- [**Topic 03 - ML techniques based on Regression Concept**](https://github.com/fromsantanu/regression-main/blob/main/pages/p03.md)
   - [Algorithm 01 - Decision Tree Regression](https://github.com/fromsantanu/regression-main/blob/main/pages/p03-01.md)
   - [Algorithm 02 - Random Forest Regression](https://github.com/fromsantanu/regression-main/blob/main/pages/p03-02.md)
   - [Algorithm 03 - Support Vector Regression (SVR)](https://github.com/fromsantanu/regression-main/blob/main/pages/p03-03.md)
